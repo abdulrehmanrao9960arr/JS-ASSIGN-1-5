@@ -41,7 +41,7 @@ var pizza = "PIZZA \nPIZZ \nPIZ \nPI \nP";
 alert(pizza);
 
 // Question no: 06
-var email = "My email address is " + "Mohsinalimughal@gmail.com";
+var email = "My email address is " + "Example@gmail.com";
 alert(email);
 
 // Question no: 07
